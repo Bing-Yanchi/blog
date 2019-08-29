@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "使用 Pygame 初步"
-date:   2017-12-20 19:41:00 +0530
+date:   2018-03-04 12:00:00 +0530
 categories: Python Pygame
 ---
 上一篇文章讲述了 Pygame 的大体内容，这一篇就要步入初始篇章。讲述 Pygame 程序的必要内容，也就是初始内容。通过简单的编写，即可快速上手 Pygame。

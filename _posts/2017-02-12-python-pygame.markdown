@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "基于 Python 使用 Pygame"
-date:   2017-12-20 19:41:00 +0530
+date:   2018-02-12 12:00:00 +0530
 categories: Python
 ---
 从今起分享一些学习 Python 的成果，这一篇就从 Pygame 说起。那么，Pygame 是个什么？与 Python 又有什么关系？
