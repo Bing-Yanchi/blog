@@ -42,4 +42,6 @@ while True: # 循环执行
 
 至此，你已掌握了 Pygame 的基础操作。
 
-更多内容，可参考我的 Github 项目：https://github.com/BingYanchi/FlappyBird/
+更多内容，可参考我的 [Github] 项目
+
+[Github]: https://github.com/BingYanchi/FlappyBird/
