@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: 葛煜骁
-  tagline: 物联网技术在校学生
+  tagline: 物联网应用技术在校学生
   date_format: "%Y %m %d"
   sitemap: true # set to true to generate sitemap.xml content
 
