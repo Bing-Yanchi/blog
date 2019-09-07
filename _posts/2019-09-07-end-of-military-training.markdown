@@ -1,5 +1,5 @@
 ---
-layout: 文章
+layout: post
 title:  "军训结束"
 date:   2019-09-7 16:48:00 +0530
 categories: daily
